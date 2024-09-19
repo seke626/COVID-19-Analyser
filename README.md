@@ -13,7 +13,7 @@ COVID-19 Analyzer is a web application built with Django that allows users to up
 Installation
 
 Clone the repository:
-`git clone https://github.com/your-username/COVID-19-Analyzer.git`
+`git clone https://github.com/seke626/COVID-19-Analyzer.git`
 
 Navigate to the project directory:
 `cd COVID-19-Analyzer`
